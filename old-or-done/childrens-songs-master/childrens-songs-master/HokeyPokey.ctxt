@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=HokeyPokey
+comment0.text=\r\n\ Complete\ the\ program\ so\ that\ it\ sings\ the\ song\ "Hokey\ Pokey."\r\n\r\n\ Sample\ verse\:\ \r\n\r\n\ \ You\ put\ your\ right\ foot\ in,\r\n\ \ You\ put\ your\ right\ foot\ out;\r\n\ \ You\ put\ your\ right\ foot\ in,\r\n\ \ And\ you\ shake\ it\ all\ about.\r\n\ \ You\ do\ the\ Hokey-Pokey,\r\n\ \ And\ you\ turn\ yourself\ around.\r\n\ \ That's\ what\ it's\ all\ about\!\r\n\r\n\ @author\ \ you\r\n\ @version\ today\r\n
+comment1.params=part
+comment1.target=void\ putItIn(java.lang.String)
+comment1.text=\r\n\ sings\ lines\ 1\ and\ 3\ of\ each\ verse\r\n\r\n\ @param\ part\ Body\ part\ to\ sing\ about\ in\ the\ verse\r\n
+comment2.params=part
+comment2.target=void\ putItOut(java.lang.String)
+comment2.text=\r\n\ sings\ line\ 2\r\n\ \r\n\ @param\ part\ Body\ part\ to\ sing\ about\ in\ the\ verse\r\n
+comment3.params=
+comment3.target=void\ shakeIt()
+comment3.text=\r\n\ sings\ lines\ 4-7\ (the\ "shake\ it\ all\ about"\ part)\r\n
+comment4.params=part
+comment4.target=void\ singIt(java.lang.String)
+comment4.text=\r\n\ Sings\ a\ verse\ of\ Hokey\ Pokey\r\n\r\n\ @param\ part\ Body\ part\ to\ sing\ about\ in\ the\ verse\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

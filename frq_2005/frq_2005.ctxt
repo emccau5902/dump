@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=frq_2005
+comment0.text=\r\n\ Calculates\ GPA.\r\n\r\n\ @author\ Ethan\ M\r\n\ @version\ 1\r\n
+comment1.params=first\ last
+comment1.target=double\ average(int,\ int)
+comment1.text=\r\n\ returns\ the\ average\ of\ the\ values\ in\ scores\ whose\ subscripts\ are\ \r\n\ between\ first\ and\ last,\ inclusive.\r\n
+comment2.params=
+comment2.target=boolean\ hasImproved()
+comment2.text=\r\n\ returns\ true\ if\ each\ successive\ value\ in\ scores\ is\ greater\ than\ or\ equal\r\n\ to\ the\ previous\ value;\ otherwise,\ returns\ false\r\n
+comment3.params=
+comment3.target=double\ finalAverage()
+comment3.text=\r\n\ if\ the\ values\ in\ scores\ have\ improved,\ returns\ the\ average\ of\ the\ \r\n\ elements\ in\ scores\ with\ indexes\ greater\ than\ or\ equal\ to\ \r\n\ scores.length\ /\ 2;\ otherwise,\ returns\ the\ average\ of\ all\ the\ \r\n\ values\ in\ scores\r\n
+numComments=4

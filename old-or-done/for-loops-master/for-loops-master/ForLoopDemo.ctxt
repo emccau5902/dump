@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ForLoopDemo
+comment0.text=\r\n\ Demonstration\ of\ for\ loops.\r\n\ \r\n\ A\ for\ loop\ is\ used\ we\ want\ to\ step\ a\ variable\ through\ a\ \r\n\ series\ of\ values.\r\n\ \r\n\ Parts\ of\ a\ for\ loop\:\r\n\ \r\n\ \ 1.\ init\r\n\ \ 2.\ test\r\n\ \ 3.\ body\r\n\ \ 4.\ increment\r\n\ \r\n\ syntax\:\r\n\ \r\n\ \ for\ (init;\ test;\ increment)\ {\r\n\ \ \ \ \ \ body\r\n\ \ }\r\n\ \r\n\ @author\ Jon\ Cooper\r\n\ @version\ October\ 22,\ 2013\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

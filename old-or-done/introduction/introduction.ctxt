@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=introduction
+comment0.text=\r\n\ This\ program\ says\ a\ lil'\ bit\ about\ me.\r\n\ \r\n\ @author\ Ethan\r\n\ @version\ August\ 20th,\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

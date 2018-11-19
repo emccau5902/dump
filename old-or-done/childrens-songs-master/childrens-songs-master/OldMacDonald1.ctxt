@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OldMacDonald1
+comment0.text=\r\n\ This\ program\ sings\ the\ song\ Old\ MacDonald\ Had\ a\ Farm.\r\n\ \r\n\ Version\ 1\ -\ Refactoring\ eliminates\ code\ duplication\ and\ makes\ it\ easier\ to\ add\ more\ animals.\r\n\r\n\ @author\ Jon\ Cooper\r\n\ @version\ August\ 18,\ 2016\ (v1)\r\n
+comment1.params=
+comment1.target=void\ eieio()
+comment2.params=a
+comment2.target=void\ hadA(java.lang.String)
+comment3.params=s
+comment3.target=void\ withA(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

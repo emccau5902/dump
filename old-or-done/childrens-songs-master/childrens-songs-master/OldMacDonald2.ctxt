@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=OldMacDonald2
+comment0.text=\r\n\ This\ program\ sings\ the\ song\ Old\ MacDonald\ Had\ a\ Farm.\r\n\r\n\ Version\ 2\ -\ singIt()\ method\ eliminates\ duplicate\ code\ and\ make\ it\ easier\ to\ add\ more\ animals.\r\n\ \r\n\ @author\ Jon\ Cooper\r\n\ @version\ August\ 18,\ 2016\ (v0)\r\n
+comment1.params=
+comment1.target=void\ eieio()
+comment1.text=\r\n\ sings\ the\ eieio\ verse\r\n
+comment2.params=animal
+comment2.target=void\ hadA(java.lang.String)
+comment2.text=\r\n\ sings\ the\ line\ with\ the\ had\ a\ animal\r\n\ @param\ part\ animal\ to\ sing\ about\ in\ the\ verse\r\n
+comment3.params=sound
+comment3.target=void\ withA(java.lang.String)
+comment3.text=\r\n\ sings\ the\ line\ with\ the\ had\ a\ "sound",\ corresponding\ to\ the\ animal\ \r\n\ @param\ part\ sound\ to\ sing\ about\ in\ the\ verse\r\n
+comment4.params=animal\ sound
+comment4.target=void\ singIt(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Sings\ the\ entire\ song\r\n\ @param\ animal\ or\ sound\ to\ sing\ about\ in\ verse\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

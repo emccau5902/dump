@@ -1,0 +1,8 @@
+Run 1: private int[] scores = {20, 50, 50, 53, 80};
+       returns 61.0
+Run 2: private int[] scores = {20, 80};
+       returns 80.0
+Run 3: private int[] scores = {50, 50, 20, 80, 53};
+       returns 50.6
+Run 4: private int[] scores = {20, 50, 50, 80};
+       returns 65.0

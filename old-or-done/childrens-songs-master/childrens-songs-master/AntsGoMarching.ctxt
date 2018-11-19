@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AntsGoMarching
+comment0.text=\r\n\ This\ program\ sings\ the\ song\ "Ants\ Go\ Marching."\r\n\ lyrics\:\ http\://kids.niehs.nih.gov/lyrics/antsgo.htm\r\n\r\n\ @author\ \ you\r\n\ @version\ today\r\n
+comment1.params=number
+comment1.target=void\ goMarching(java.lang.String)
+comment1.text=\r\n\ Sings\ the\ first\ two\ lines.\r\n\r\n\ @param\ number\ (as\ a\ word)\ for\ how\ the\ ants\ march\r\n
+comment2.params=number
+comment2.target=void\ noHurrah(java.lang.String)
+comment2.text=\r\n\ Sings\ the\ third\ line.\r\n\r\n\ @param\ number\ (as\ a\ word)\ for\ how\ the\ ants\ march\r\n
+comment3.params=action
+comment3.target=void\ littleAnt(java.lang.String)
+comment3.text=\r\n\ Sings\ the\ 4th\ line\ about\ the\ little\ ant.\r\n\r\n\ @param\ action\ What\ the\ little\ one\ stops\ to\ do\r\n
+comment4.params=
+comment4.target=void\ rain()
+comment4.text=\r\n\ Sings\ the\ last\ two\ lines\ of\ each\ verse.\r\n
+comment5.params=number\ action
+comment5.target=void\ singIt(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Sings\ a\ verse\ of\ Ants\ Go\ Marching.\r\n\ \r\n\ @param\ number\ Number\ (as\ a\ word)\ for\ how\ the\ ants\ march\r\n\ @param\ action\ What\ the\ little\ one\ stops\ to\ do\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Calls\ the\ singIt()\ for\ each\ verse.\r\n
+numComments=7
