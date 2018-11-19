@@ -1,0 +1,4 @@
+isLevelTrailSegment(7, 10); true
+isLevelTrailSegment(7, 13); true
+isLevelTrailSegment(0, 7); false
+isDifficult(); true

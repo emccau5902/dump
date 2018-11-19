@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BatteryCharger
+comment0.text=\r\n\r\n\ @author\ (Ethan\ McCauley)\r\n\ @version\ (yes)\r\n
+comment1.params=startHour\ chargeTime
+comment1.target=int\ getChargingCost(int,\ int)
+comment1.text=Determines\ the\ total\ cost\ to\ charge\ the\ battery\ starting\ at\ the\ beginning\ of\ startHour.\r\n\ @param\ startHour\ the\ hour\ at\ which\ the\ charge\ period\ begins.\r\n\ \ \ \ \ \ Precondition\:\ 0\ <\=\ startHour\ <\=\ 23\r\n\ @param\ chargeTime\ the\ number\ of\ hours\ the\ battery\ needs\ to\ be\ charged\r\n\ \ \ \ \ \ Precondition\:\ chargeTime\ >\ 0\r\n\ @return\ the\ total\ cost\ to\ charge\ the\ battery\r\n
+comment2.params=chargeTime
+comment2.target=int\ getChargeStartTime(int)
+comment2.text=Determines\ start\ time\ to\ charge\ the\ battery\ at\ the\ lowest\ cost\ for\ the\ given\ charge\ time.\r\n\ @param\ chargeTime\ the\ number\ of\ hours\ the\ battery\ needs\ to\ be\ charged\ \r\n\ \ \ \ \ \ Precondition\:\ chargeTime\ >\ 0\r\n\ @return\ an\ optimal\ start\ time,\ wuth\ 0\ <\=\ returned\ value\ <\=\ 23\r\n
+numComments=3
